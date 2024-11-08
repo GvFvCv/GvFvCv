@@ -26,9 +26,8 @@ jobs:
 
       # Runs GitHub Readme Stats to display top languages
       - name: Run GitHub Stats
-        uses: anuraghazra/github-readme-stats@main
+        uses: anuraghazra/github-readme-stats@v1
         env:
-          USERNAME: gvfvcv
-
+          USERNAME: gvfvcv 
 
 
